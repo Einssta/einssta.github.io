@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Einssta</title>
+  
+  <subtitle>Einssta Utility Room</subtitle>
+  <link href="https://einssta.me/atom.xml" rel="self"/>
+  
+  <link href="https://einssta.me/"/>
+  <updated>2020-09-05T14:28:32.315Z</updated>
+  <id>https://einssta.me/</id>
+  
+  <author>
+    <name>Einssta</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>記一次考試失利</title>
+    <link href="https://einssta.me/2020/09/05/20.09.05/"/>
+    <id>https://einssta.me/2020/09/05/20.09.05/</id>
+    <published>2020-09-04T16:00:00.000Z</published>
+    <updated>2020-09-05T14:28:32.315Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在上次考試過後的不到一周，又迎來了高三第一學期的第二場大考&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="生活" scheme="https://einssta.me/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="瑣事" scheme="https://einssta.me/tags/%E7%91%A3%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>近期小記</title>
+    <link href="https://einssta.me/2020/08/31/20.08.31/"/>
+    <id>https://einssta.me/2020/08/31/20.08.31/</id>
+    <published>2020-08-30T16:00:00.000Z</published>
+    <updated>2020-09-05T15:04:19.443Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;最終，人還是活成了自己討厭的樣子&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="生活" scheme="https://einssta.me/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="瑣事" scheme="https://einssta.me/tags/%E7%91%A3%E4%BA%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>柏拉圖</title>
+    <link href="https://einssta.me/2020/08/30/20.08.30/"/>
+    <id>https://einssta.me/2020/08/30/20.08.30/</id>
+    <published>2020-08-29T16:00:00.000Z</published>
+    <updated>2020-09-05T15:05:31.357Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;“如果尖銳的責備完全消失，溫和的責備將會變得刺耳。如果溫和的責備也不被允許，沉默將被認為居心叵測。如果沉默也不再允許，讚揚不够賣力將是一種罪行。如果只允許一種聲音存在，那麼，唯一存在的那個聲音就是謊言。”&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="生活" scheme="https://einssta.me/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="碎片" scheme="https://einssta.me/tags/%E7%A2%8E%E7%89%87/"/>
+    
+  </entry>
+  
+</feed>
