@@ -6,7 +6,7 @@
   <link href="https://einssta.me/atom.xml" rel="self"/>
   
   <link href="https://einssta.me/"/>
-  <updated>2020-10-01T13:41:29.311Z</updated>
+  <updated>2020-10-02T10:37:27.057Z</updated>
   <id>https://einssta.me/</id>
   
   <author>
@@ -17,157 +17,20 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>所追随的光——五星红旗的星光</title>
-    <link href="https://einssta.me/2020/10/02/20.10.01/"/>
-    <id>https://einssta.me/2020/10/02/20.10.01/</id>
-    <published>2020-10-02T09:40:01.411Z</published>
-    <updated>2020-10-01T13:41:29.311Z</updated>
+    <title>各项干货归档</title>
+    <link href="https://einssta.me/2020/10/01/other/"/>
+    <id>https://einssta.me/2020/10/01/other/</id>
+    <published>2020-09-30T16:00:00.000Z</published>
+    <updated>2020-10-02T10:37:27.057Z</updated>
     
     
-    <summary type="html">&lt;p&gt;曾记否——&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;……中华——人民共和国，中央人民政府，今天——成立了!&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="生活" scheme="https://einssta.me/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="见证" scheme="https://einssta.me/tags/%E8%A7%81%E8%AF%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>记一次失利</title>
-    <link href="https://einssta.me/2020/09/05/20.09.05/"/>
-    <id>https://einssta.me/2020/09/05/20.09.05/</id>
-    <published>2020-09-04T16:00:00.000Z</published>
-    <updated>2020-10-01T14:16:50.794Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;在上次考试过后的不到一周，又迎来了高三第一学期的第二场大考&lt;/p&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;KaiOS&quot;&gt;&lt;a href=&quot;#KaiOS&quot; class=&quot;headerlink&quot; title=&quot;KaiOS&quot;&gt;&lt;/a&gt;KaiOS&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;/kaios/omnisd&quot;&gt;KaiOS如何利用OmniSD安装应用&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/kaios/diy&quot;&gt;KaiOS快速创建可更改图标的网页快捷方式&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;/kaios/hideicon&quot;&gt;KaiOS隐藏应用&lt;/a&gt;</summary>
     
     
     
-    <category term="生活" scheme="https://einssta.me/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="琐事" scheme="https://einssta.me/tags/%E7%90%90%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>近期小记</title>
-    <link href="https://einssta.me/2020/08/31/20.08.31/"/>
-    <id>https://einssta.me/2020/08/31/20.08.31/</id>
-    <published>2020-08-30T16:00:00.000Z</published>
-    <updated>2020-10-01T03:00:33.185Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;最终，人还是活成了自己讨厌的样子&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="生活" scheme="https://einssta.me/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="琐事" scheme="https://einssta.me/tags/%E7%90%90%E4%BA%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>柏拉图</title>
-    <link href="https://einssta.me/2020/08/30/20.08.30/"/>
-    <id>https://einssta.me/2020/08/30/20.08.30/</id>
-    <published>2020-08-29T16:00:00.000Z</published>
-    <updated>2020-10-01T03:00:40.064Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;“如果尖锐的批评完全消失，温和的批评将会变得刺耳。如果温和的批评也不被允许，沉默将被认为居心叵测。如果沉默也不再允许，赞扬不够卖力将是一种罪行。如果只允许一种声音存在，那么，唯一存在的那个声音就是谎言。”     ——柏拉图&lt;/p&gt;
-&lt;p&gt;&lt;img</summary>
-        
-      
-    
-    
-    
-    <category term="生活" scheme="https://einssta.me/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="碎片" scheme="https://einssta.me/tags/%E7%A2%8E%E7%89%87/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>物理学史</title>
-    <link href="https://einssta.me/2020/06/20/20.06.20/"/>
-    <id>https://einssta.me/2020/06/20/20.06.20/</id>
-    <published>2020-06-19T16:00:00.000Z</published>
-    <updated>2020-10-02T05:26:18.192Z</updated>
-    
-    
-    <summary type="html">&lt;hr&gt;
-
-&lt;h1 id=&quot;▶必修1、2（力学）&quot;&gt;&lt;a href=&quot;#▶必修1、2（力学）&quot; class=&quot;headerlink&quot; title=&quot;▶必修1、2（力学）&quot;&gt;&lt;/a&gt;▶必修1、2（力学）&lt;/h1&gt;&lt;hr&gt;
-
-&lt;ul&gt;
-&lt;li&gt;1638年 意大利物理学家&lt;strong&gt;伽利略&lt;/strong&gt;在《两种新科学的对话》中用科学推理论证重物体和轻物体下落一样快；并在比萨斜塔（也有说不是，这里不做考究…）做了两个不同质量的小球下落的实验，证明了他的观点是正确的，推翻了古希腊学者亚里士多德的观点（即：质量大的小球下落快是错误的）。</summary>
-    
-    
-    
-    <category term="学习" scheme="https://einssta.me/categories/%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-    <category term="笔记" scheme="https://einssta.me/tags/%E7%AC%94%E8%AE%B0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>五四青年</title>
-    <link href="https://einssta.me/2020/05/04/20.05.04/"/>
-    <id>https://einssta.me/2020/05/04/20.05.04/</id>
-    <published>2020-05-03T16:00:00.000Z</published>
-    <updated>2020-10-01T12:12:40.978Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;在中国特色社会主义进入新时代伟大历史进程中，实现人生理想✨&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1919年5月4日，北京，一场以学生为主的爱国运动爆发，广大群众、市民、工商人士等中下阶层发动示威游行、请愿、罢工、暴力对抗政府…..给中国革命史勾勒一道划时代的墨迹……以全民族的力量高举起爱国主义的伟大旗帜！&lt;br&gt;……&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="生活" scheme="https://einssta.me/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="见证" scheme="https://einssta.me/tags/%E8%A7%81%E8%AF%81/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>致敬英雄 共悼逝者</title>
-    <link href="https://einssta.me/2020/04/03/20.04.03/"/>
-    <id>https://einssta.me/2020/04/03/20.04.03/</id>
-    <published>2020-04-02T16:00:00.000Z</published>
-    <updated>2020-04-02T16:00:00.000Z</updated>
-    
-    
-    <summary type="html">&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;致敬名族脊梁！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;一场突如其来的疫情，毫无人性的夺走了千万无辜者的生命，在如此严峻的形势下，一批批与疫情斗争的战士前仆后继，她们有战斗在病魔前的白衣天使，他们有祖国坚强后盾的解放军战士，他们还有坚守在一线的工作人员，默默付出的志愿者…..&lt;br&gt;他们舍弃小家，为的是祖国大家上下十几亿人民的健康安危！ 岁月静好，只因有他们负重前行！向千千万万的“战士们”致敬，向无辜离世的逝者哀悼！&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;致敬！&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</summary>
-    
-    
-    
-    <category term="生活" scheme="https://einssta.me/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-    <category term="见证" scheme="https://einssta.me/tags/%E8%A7%81%E8%AF%81/"/>
     
   </entry>
   
